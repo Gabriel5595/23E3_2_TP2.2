@@ -1,0 +1,14 @@
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\23E3_2_TP2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\23E3_2_TP2.2.AssemblyInfoInputs.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\23E3_2_TP2.2.AssemblyInfo.cs
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\23E3_2_TP2.2.csproj.CoreCompileInputs.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\bin\Debug\net7.0\23E3_2_TP2.2.exe
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\bin\Debug\net7.0\23E3_2_TP2.2.deps.json
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\bin\Debug\net7.0\23E3_2_TP2.2.runtimeconfig.json
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\bin\Debug\net7.0\23E3_2_TP2.2.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\bin\Debug\net7.0\23E3_2_TP2.2.pdb
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\23E3_2_TP2.2.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\refint\23E3_2_TP2.2.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\23E3_2_TP2.2.pdb
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\23E3_2_TP2.2.genruntimeconfig.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP2\23E3_2_TP2.2\obj\Debug\net7.0\ref\23E3_2_TP2.2.dll
